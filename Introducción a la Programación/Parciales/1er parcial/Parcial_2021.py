@@ -1,7 +1,7 @@
 # -------------------INTRO PROG UNLU: PARCIAL 11/08/21--------------------------
 # Completar con tus datos:
-# Nombre:Federico Sebastian Rizzo
-# DNI: 31608123
+# Nombre:
+# DNI:
 # Entrega: por GitHub (preferentemente) o por mail a: introprog.unlu@gmail.com
 
 # IMPORTANTE: No está permitido usar para resolver el examen estructuras que no

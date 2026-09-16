@@ -1,0 +1,25 @@
+Esta nube contiene las siguientes carpetas:
+
+    Intro a la Programación
+	contracursada2026
+	INTROPROG_contracursada
+
+    Matemáticas
+        clase grabada mb
+    Sistemas 1
+    ISI
+    CLASES GRABADAS OC_TEORICAS
+        OC_41407_Bibliografia
+    CLASES GRABADAS OC_PRACTICAS
+    
+Cada carpeta tiene clases grabadas de las distintas materias que listé arriba.
+    * voy a ir actualizandolas todas las semanas a medida que voy grabando clases.
+    * La carpeta de "CLASES GRABADAS OC_TEORICAS" contiene la bibliografia que recomiendan los profesores.
+
+    https://1024terabox.com/s/1bKEG6rxQ3uubJUxAGX-Frg
+
+
+Para descargar es conveniente crear una cuenta en Terabox, es gratis y a demás te dan 1TB de almacenamiento.
+La aplicación móvil no es muy buena pero la de escritorio esta joya.
+
+Cualquier inconveniente que tengas podes escribirme a: felipedesananiceto@gmail.com
